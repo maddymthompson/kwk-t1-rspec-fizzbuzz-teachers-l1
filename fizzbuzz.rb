@@ -1,8 +1,10 @@
 def is_odd?(number)
-  puts number % 2 != 0
+  nil
 end
 
 
-if is_odd(5)
+if nil
   puts "This wont print"
 end
+
+
